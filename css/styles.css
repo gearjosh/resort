@@ -1,7 +1,7 @@
 body {
-  background-color: #FFE2DE;
-  font-family: sans-serif;
-  color: #302B2A;
+  background-color: #9C9B7A;
+  font-family: Helvetica;
+  color: #303026;
 }
 
 .center {
@@ -9,22 +9,23 @@ body {
 }
 
 h1 {
-  font-family: sans-serif;
-  color: #078E96;
+  font-family: Garamond;
+  color: #FF974F;
   text-shadow: 2px 2px 1px rgba(48, 43, 42, 0.5);
 }
 
 h3 {
-  color: #4EDAE3;
+  color: #F54F29;
   text-shadow: 1px 1px 1px #000,
               -1px 0px 1px #000,
               0px -1px 1px #000;
 }
 
 div.blue a {
-  color: #3AA1A8;
+  color: #405952;
   font-weight: bold;
   font-variant: small-caps;
+  font-family: Trebuchet;
 }
 
 img {
