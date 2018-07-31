@@ -11,8 +11,7 @@ _This is a 7 page site with information on accommodations, activities, contact i
 ## Setup/Installation Requirements
 
 * _No requirements beyond having a browser with modern HTML and CSS capabilities._
-* _Access files at https://github.com/gearjosh/resort or https://github.com/swampcamel/resort
-
+* _Access site at https://gearjosh.github.io/resort or https://swampcamel.github.io/resort/ _
 _That's it!_
 
 ## Known Bugs
